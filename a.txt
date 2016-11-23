@@ -5,7 +5,6 @@ Boot/
 bootmgr
 Documents and Settings@
 git-git/
-hello/
 hello-git/
 hiberfil.sys
 Intel/
